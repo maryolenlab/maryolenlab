@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**maryolenlab/maryolenlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maryna! 👋
 
-Here are some ideas to get you started:
+I'm from Ukraine, currently based in Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into digital products using AI tools.
+
+### 🚀 What I'm working on
+- 📱 Budget Planner — my Android app for managing personal finances (currently testing).
+- 🌐 Websites — responsive web projects.
+- ✨ Exploring AI tools, app building and digital product design.
+
+### 🤝 Let's connect
+I'm interested in meeting other indie makers, AI builders and people who love creating their own projects.
+
+Always happy to exchange ideas and learn something new!
